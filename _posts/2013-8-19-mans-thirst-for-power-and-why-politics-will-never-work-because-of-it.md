@@ -6,7 +6,7 @@ categories: politics
 ---
 This is a cross-post of an article I had published recently on the Young Americans for Liberty national blog. You can read the article [here.](http://www.yaliberty.org/posts/mans-thirst-for-power-and-why-politics-will-never-work-because-of-it)
 
-I recommend following the link so YAL can get the traffic they deserve on their excellent blog, but I will also post the article here in case for some reason it ever gets taken down.
+I recommend following the link so YAL can get the traffic they deserve on their excellent blog (join in on the comments over there!) but I will also post the article here in case for some reason it ever gets taken down.
 
 ![john mccain and sarah palin](https://www.indybay.org/uploads/2008/10/12/thatstheticketsmall_1.jpg)
 
@@ -22,11 +22,11 @@ There is something in the nature of mankind and our natural instincts that drive
 
 In a Lew Rockwell [interview with James Altucher](http://www.lewrockwell.com/podcast/377-tune-in-turn-on-drop-out/), Rockwell states that:
 
->Virtually everybody in politics desires to be >some kind of dictator. They burn to rule >others. I think it is very difficult to go >anywhere in politics unless you share that >ethos.
+>Virtually everybody in politics desires to be some kind of dictator. They burn to rule others. I think it is very difficult to go anywhere in politics unless you share that ethos.
 
 In this same interview, Altucher describes his foray into "the machine" of political process. He attempts to run for the senate (eventually withdrawing from the race) and shares some of his insight and sentiments that he gained from the experience. It provides supportive insight into this idea that mankind's desire for power and self-interest is what drives politics. It is for the reason he withdrew from the race, espousing a new opinion that it is from external influence, from pressure outside the political system, that we are able to bring effective change to society. Altucher states:
 
->Everybody has their hand out for something, >and its not money, its a lot more subtle than >that. Everybody has something that they want, >or something that they want to trade. They >move up in the machine because they traded >their souls for something else.
+>Everybody has their hand out for something, and its not money, its a lot more subtle than that. Everybody has something that they want, or something that they want to trade. They move up in the machine because they traded their souls for something else.
 
 Rockwell argues that the "moral path" and the only path that can change hearts and minds is not through the political process, but by the power of volunteerism.
 

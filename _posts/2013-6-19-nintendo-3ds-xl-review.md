@@ -18,9 +18,9 @@ The 3DS currently retails at 169.99, while the XL goes for 199.99. As I will des
 
 ### The New Displays
 
-The main draw of the 3DS XL is its 90% increase in screen size. [The Verge](http://www.theverge.com) aptly described the comparison in screen size between the two: 
->The 3DS is like peering through a peephole, 
->but the XL is like stepping through a door.
+The main draw of the 3DS XL is its 90% increase in screen size. [The Verge](http://www.theverge.com) aptly described the comparison in screen size between the two:
+ 
+>The 3DS is like peering through a peephole, but the XL is like stepping through a door.
 
 The larger size makes gaming on the 3DS much more immersive and is much more relaxing on the eyes, especially with the 3D slider enabled.
 
