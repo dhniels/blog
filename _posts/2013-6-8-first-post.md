@@ -14,9 +14,9 @@ I don't have much of a "mission statement" to declare my objective in writing bu
 
 ## Let's Talk About Me
 
-My name is Dave Nielsen. I am a student of Web Design at Brigham Young University Idaho and currently live in a little town called Rexburg. My wife Taylor and I enjoy the outdoors and all it has to offer. 
+My name is Dave Nielsen. I am a student of Web Design at Brigham Young University Idaho, in a little Idaho town called Rexburg. My wife Taylor and I enjoy the outdoors and all it has to offer. 
 
-![This is Rexburg](http://www.bartonseo.com/sites/default/files/images/rexburgjobs.jpg "Rexburg")
+![Rexburg, Idaho](http://mw2.google.com/mw-panoramio/photos/medium/14704975.jpg "Rexburg")
 
 A few of my interests include:
 
@@ -39,7 +39,7 @@ I would like to convey my thoughts and hopefully attract a broad audience of rea
 - …and likely food pics
 - (also highly probably that I will post pictures of cats at some point)
 
-![Oh, there it is](http://www.joeydevilla.com/wordpress/wp-content/uploads/2005/08/jumping_cats_with_lightsabers.jpg "A picture of cats")
+![a picture of cats](http://www.joeydevilla.com/wordpress/wp-content/uploads/2005/08/jumping_cats_with_lightsabers.jpg)
 
 Oh yes, also you can follow me on [twitter](https://www.twitter.com/dhniels) if you'd like.
 
