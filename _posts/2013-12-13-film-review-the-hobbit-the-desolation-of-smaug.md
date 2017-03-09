@@ -2,7 +2,7 @@
 layout: post
 title:  "Film Review: "The Hobbit: The Desolation of Smaug"
 date:   2013-12-13 15:05:49 -0700
-categories: movie review
+categories: reviews
 ---
 <img src="http://cdn.fansided.com/wp-content/blogs.dir/229/files/2013/10/The-Hobbit-Desolation-of-Smaug-Poster.jpg" width="650" height="406" alt="The Desolation of Smaug movie review">
 
