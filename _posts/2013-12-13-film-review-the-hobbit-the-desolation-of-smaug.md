@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Film Review: "The Hobbit: The Desolation of Smaug"
+title:  "Film Review: The Hobbit: The Desolation of Smaug"
 date:   2013-12-13 15:05:49 -0700
 categories: reviews
 ---

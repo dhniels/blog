@@ -20,7 +20,7 @@ Go into your scriptogram dashboard and click tools, then click HTML editor.
 
 The first code snippet is a chunk of javascript that will enable the commenting box feature on your blog. My blog already had this script right before the ending body tag under the div id "fb-root", but if it's not there you will need to add it there.
 
-The second snippet of code is the HTML that you will need. Search your code until you have found the "{{#is_post}}" and "{{/is_post}}" tags. In between these two is where you will stick this bit of HTML. Most likely, you will see our other social sharing options as well (a "Like" button, tweet button, and a +1 button). I prefaced the code with a comment (see below) in order to recognize what it is for when I look at my code later.
+The second snippet of code is the HTML that you will need. Search your code until you have found the {{#is_post}} and {{/is_post}} tags. In between these two is where you will stick this bit of HTML. Most likely, you will see our other social sharing options as well (a "Like" button, tweet button, and a +1 button). I prefaced the code with a comment (see below) in order to recognize what it is for when I look at my code later.
 
 <a href="http://www.flickr.com/photos/mistershmi/9240736473/" title="Screen Shot 2013-07-08 at 3.02.09 PM by MisterShmi, on Flickr"><img src="https://farm6.staticflickr.com/5443/9240736473_c0d09ea762_z.jpg" width="600" height="521" alt="This is where you stick the HTML"></a>
 
