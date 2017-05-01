@@ -16,7 +16,7 @@
 title: Dave Nielsen's Blog
 email: dhniels@me.com
 description:
-  I am a Front-End Web Developer, currently working at [Squava](http://squava.com/).
+  I am a Front-End Web Developer, currently working at Squava.
   This blog is a collection of my thoughts, both personal and professional.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://dhniels.com" # the base hostname & protocol for your site, e.g. http://example.com
