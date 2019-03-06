@@ -16,11 +16,10 @@
 title: Dave Nielsen's Blog
 email: dhniels@me.com
 description:
-  I am a Front-End Web Developer, currently working at Squava.
+  I am a Front-End Web Developer, currently working at Iron County.
   This blog is a collection of my thoughts, both personal and professional.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://dhniels.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: dhniels
 github_username:  dhniels
 
 # Build settings
